@@ -44,17 +44,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/Ahmed-Ibrahim-99/Flickr-Api'>Flickr Clone</a></td>
+      <td><a href='https://github.com/AhmedIbrahimAbdellatif/Flickr-Api'>Flickr Clone</a></td>
       <td>JavaScript, NodeJs, Express, MongoDB, Jest</td>
       <td>Replicating Flickr app backend: REST APIs and database</td>
     </tr>
     <tr>
-     <td><a href='https://github.com/Ahmed-Ibrahim-99/Mini-Compiler'>Mini Compiler</a></td>
+     <td><a href='https://github.com/AhmedIbrahimAbdellatif/Mini-Compiler'>Mini Compiler</a></td>
      <td>Bison, Flex, C-Language</td>
      <td>A mini compiler for a simple programming langauge</td>
     </tr>
     <tr>
-     <td><a href='https://github.com/Ahmed-Ibrahim-99/Space-Shapes'>Space Shapes</a></td>
+     <td><a href='https://github.com/AhmedIbrahimAbdellatif/Space-Shapes'>Space Shapes</a></td>
      <td>Assembly Language</td>
      <td>A simple arcade game designed from A to Z by me and implemented 100% using Assembly</td>
     </tr>
@@ -64,8 +64,8 @@
 <!-- end work project section -->
 </br>
 
-<!-- ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ibrahim-99&count_private=true&line_height=40'&theme=algolia) -->
-<img src='https://github-readme-stats.vercel.app/api?username=Ahmed-Ibrahim-99&hide=stars,issues&show_icons=true&theme=algolia&count_private=true&line_height=40'/></br>
+<!-- ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AhmedIbrahimAbdellatif&count_private=true&line_height=40'&theme=algolia) -->
+<img src='https://github-readme-stats.vercel.app/api?username=AhmedIbrahimAbdellatif&hide=stars,issues&show_icons=true&theme=algolia&count_private=true&line_height=40'/></br>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ibrahim-99&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedIbrahimAbdellatif&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
 <img src="https://media.giphy.com/media/PoEEkdnOS4gIybefeC/source.gif">
