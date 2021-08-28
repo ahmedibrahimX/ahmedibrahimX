@@ -1,15 +1,17 @@
 # Hi! I am Ahmed Ibrahim
 
-### I am a senior computer engineering student at Cairo University :computer: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&size=17&width=500&lines=Senior+computer+engineering+student+@+Cairo+Uni;Passionate+about+software+engineering;I+belive+code+can+write+life-changing+stories)](https://git.io/typing-svg) 
 
-***
+<details>
+<summary><b> Expand to know more about me :point_right:</b></summary> </br>
 <table>
     <tr>
         <td></br><b style="font-size:30px">Curious about: :man_technologist: </b></br></br></td>
         <td></br><b style="font-size:30px">Bits about me: :space_invader:</b></br></br></td>
     </tr>
     <tr>
-        <td>- Full-stack web developement</br></br>
+        <td>- Backend developement</br></br>
+            - Code Quality</br></br>
             - Machine learning</br></br>
             - Deep learning</br></br>
         </td>
@@ -20,6 +22,11 @@
         </td>
     </tr>
 </table></br>
+</details>
+</br>
+
+<details>
+<summary><b> Expand to view my significant skills and technologies :point_right:</b></summary> </br>
 <div style="display:inline-block">
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
@@ -34,6 +41,9 @@
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
     
 </div></br>
+</details>
+</br>
+
 <!-- start work project section -->
 <details>
 <summary><b> Expand to view my significant projects :point_right:</b></summary> </br>
