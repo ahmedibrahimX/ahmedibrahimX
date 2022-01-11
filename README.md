@@ -57,6 +57,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href='https://github.com/AhmedIbrahimAbdellatif/LicensePlateRecognition'>License Plate Recognition</a></td>
+      <td>Python, Numpy, Scikit-Image, Scipy, Opencv, Pytesseract</td>
+      <td>Image Processing project - detecting license plate and applying OCR on it</td>
+    </tr>
+    <tr>
       <td><a href='https://github.com/AhmedIbrahimAbdellatif/BallCoaster-GameEngineProject'>Ball Coaster</a></td>
       <td>C++, OpenGL</td>
       <td>Computer graphics project - creating a game engine and using it to create a simple 3D game</td>
