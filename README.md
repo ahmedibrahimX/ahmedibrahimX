@@ -67,7 +67,7 @@
       <td>Computer graphics project - creating a game engine and using it to create a simple 3D game</td>
     </tr>
     <tr>
-      <td><a href='https://github.com/AhmedIbrahimAbdellatif/CondaAutomation'>Flickr Clone</a></td>
+      <td><a href='https://github.com/AhmedIbrahimAbdellatif/CondaAutomation'>Conda Automation</a></td>
       <td>Python</td>
       <td>Python script to automate finding and executing the correct command to install packages in a conda environment</td>
     </tr>
