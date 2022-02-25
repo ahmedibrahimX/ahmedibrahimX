@@ -66,6 +66,10 @@
       <td>C++, OpenGL</td>
       <td>Computer graphics project - creating a game engine and using it to create a simple 3D game</td>
     </tr>
+    <td><a href='https://github.com/AhmedIbrahimAbdellatif/Mini-Compiler'>Mini Compiler</a></td>
+     <td>Bison, Flex, C-Language</td>
+     <td>A mini compiler for a simple programming langauge</td>
+    </tr>
     <tr>
       <td><a href='https://github.com/AhmedIbrahimAbdellatif/CondaAutomation'>Conda Automation</a></td>
       <td>Python</td>
@@ -77,10 +81,6 @@
       <td>Replicating Flickr app backend: REST APIs and database</td>
     </tr>
     <tr>
-     <td><a href='https://github.com/AhmedIbrahimAbdellatif/Mini-Compiler'>Mini Compiler</a></td>
-     <td>Bison, Flex, C-Language</td>
-     <td>A mini compiler for a simple programming langauge</td>
-    </tr>
     <tr>
      <td><a href='https://github.com/AhmedIbrahimAbdellatif/Space-Shapes'>Space Shapes</a></td>
      <td>Assembly Language</td>
