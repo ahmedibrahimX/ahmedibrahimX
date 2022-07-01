@@ -1,6 +1,6 @@
 # Hi! I am Ahmed Ibrahim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&size=17&width=500&lines=Senior+computer+engineering+student+@+Cairo+Uni;Passionate+about+software+engineering;I+believe+code+can+write+life-changing+stories)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&size=17&width=500&lines=Cairo+University+computer+engineering+graudate;Passionate+about+software+engineering;I+believe+code+can+write+life-changing+stories)](https://git.io/typing-svg) 
 
 <details>
 <summary><b> Expand to know more about me :point_right:</b></summary> </br>
@@ -12,8 +12,7 @@
     <tr>
         <td>- Backend developement</br></br>
             - Code Quality</br></br>
-            - Machine learning</br></br>
-            - Deep learning</br></br>
+            - Web Scalability</br></br>
         </td>
         <td>
             - :earth_americas: Former international relations manager and organizing commity president at AIESEC </br></br>
@@ -56,6 +55,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href='https://github.com/AhmedIbrahimAbdellatif/RSA-CryptoSystem'>RSA CryptoSystem</a></td>
+      <td>Python, Numpy, Matplotlib</td>
+      <td>Implementation of RSA cryptosystem showing the encryption and decryption algorithms as well as the possible attacks</td>
+    </tr>
     <tr>
       <td><a href='https://github.com/AhmedIbrahimAbdellatif/LicensePlateRecognition'>License Plate Recognition</a></td>
       <td>Python, Numpy, Scikit-Image, Scipy, Opencv, Pytesseract</td>
