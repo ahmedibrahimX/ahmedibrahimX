@@ -1,6 +1,6 @@
 # Hi! I am Ahmed Ibrahim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&size=17&width=500&lines=BEng+from+Cairo+University;Top+10+of+Class+2022+(academic+excellence);Passionate+about+software+engineering;I+believe+code+can+write+life-changing+stories)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&size=17&width=500&lines=BEng+from+Cairo+University;A+Top+Student+of+Class+2022+(academic+excellence);Passionate+about+software+engineering;I+believe+code+can+write+life-changing+stories)](https://git.io/typing-svg) 
 
 <details>
 <summary><b> Expand to know more about me :point_right:</b></summary> </br>
