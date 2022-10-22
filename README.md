@@ -10,8 +10,9 @@
         <td></br><b style="font-size:30px">Bits about me: :space_invader:</b></br></br></td>
     </tr>
     <tr>
-        <td>- Backend developement</br></br>
-            - Code Quality</br></br>
+        <td>- Distributed Backend Systems</br></br>
+            - Continuous Delivery</br></br>
+			- Automation</br></br>
             - Web Scalability</br></br>
         </td>
         <td>
@@ -22,28 +23,59 @@
     </tr>
 </table></br>
 </details>
-</br>
 
 <details>
 <summary><b> Expand to view my significant skills and technologies :point_right:</b></summary> </br>
 <div style="display:inline-block">
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img alt="CircleCI" src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white"/>
+    <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
+    <br><br>
     <img alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="dotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    
-</div></br>
-</details>
-</br>
 
-<!-- start work project section -->
+</div>
+</details>
+
+<!-- start DevOps projects section -->
+
+<details>
+<summary><b> Expand to view my significant DevOps projects :point_right:</b></summary> </br>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/ahmed-ibrahim-99/CICD-Advanced-Cloud-DevOps-Nanodegree-Project'>CI/CD Project - Udacity's Advanced Cloud DevOps Nanodegree Project</a></td>
+      <td>AWS, AWS-CLI, CloudFormation, CircleCI, Ansible, Prometheus</td>
+      <td>CI/CD Pipeline using CircleCi, Configuration using Ansible, Monitoring and Alerting using Prometheus</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/ahmed-ibrahim-99/IaC-Advanced-Cloud-DevOps-Nanodegree-Project'>IaC Project - Udacity's Advanced Cloud DevOps Nanodegree Project</a></td>
+      <td>AWS, AWS-CLI, CloudFormation, Bash, Cloud Architecture Design</td>
+      <td>IaC using AWS CloudFormation to deploy a highly available web app.</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
+<!-- end DevOps projects section -->
+
+<!-- start university projects section -->
+
 <details>
 <summary><b> Expand to view my significant university projects :point_right:</b></summary> </br>
 <table>
@@ -83,7 +115,7 @@
   </tbody>
 </table>
 </details>
-<!-- end work project section -->
+<!-- end university projects section -->
 </br>
 
 <!-- ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AhmedIbrahimAbdellatif&count_private=true&line_height=40'&theme=algolia) -->
