@@ -61,7 +61,7 @@
     <tr>
       <td><a href='https://github.com/ahmed-ibrahim-99/CICD-Advanced-Cloud-DevOps-Nanodegree-Project'>CI/CD Project - Udacity's Advanced Cloud DevOps Nanodegree Project</a></td>
       <td>AWS, AWS-CLI, CloudFormation, CircleCI, Ansible, Prometheus</td>
-      <td>CI/CD Pipeline using CircleCi, Configuration using Ansible, Monitoring and Alerting using Prometheus</td>
+      <td>CI/CD Pipeline using CircleCi, IaC using AWS CloudFormation, Configuration using Ansible, Monitoring and Alerting using Prometheus</td>
     </tr>
     <tr>
       <td><a href='https://github.com/ahmed-ibrahim-99/IaC-Advanced-Cloud-DevOps-Nanodegree-Project'>IaC Project - Udacity's Advanced Cloud DevOps Nanodegree Project</a></td>
