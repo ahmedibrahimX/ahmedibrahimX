@@ -1,6 +1,6 @@
 # Hi! I am Ahmed Ibrahim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&size=17&width=500&lines=Senior+Software+Engineer;BEng+from+Cairo+University;Ranked+among+the+top+of+Class+2022;The+less,+the+better)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&size=17&width=500&lines=Senior+Software+Engineer;+Backend+Engineer,+Essentialist,+Curious;BEng+from+Cairo+University+(top+of+my+class);The+less,+the+better)](https://git.io/typing-svg) 
 
 <div style="display:inline-block">
 <a href="https://medium.com/@a.ibrahim.abdellatif"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
