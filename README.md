@@ -87,10 +87,10 @@
 
 <!-- end DevOps projects section -->
 
-<!-- start university projects section -->
+<!-- start academic projects section -->
 
 <details>
-<summary><b> Expand to view my significant university projects :point_right:</b></summary> </br>
+<summary><b> Expand to view my significant academic projects :point_right:</b></summary> </br>
 <table>
   <thead>
     <tr>
@@ -128,5 +128,5 @@
   </tbody>
 </table>
 </details>
-<!-- end university projects section -->
+<!-- end academic projects section -->
 </br>
