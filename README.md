@@ -1,16 +1,29 @@
-# Hi! I am Ahmed Ibrahim
+# Ahmed Ibrahim
 
-Senior software engineer, AWS Certified ML Engineer
+**AI Tech Lead | Applied AI and product engineering**
 
-I build high-performance backend systems and ML infrastructure that move fast and stay reliable.
+I build AI products around customer workflows, with a background in backend and distributed systems across fintech and F&B.
 
-<img width="100" height="100" alt="aws-certified-machine-learning-engineer-associate" src="https://github.com/user-attachments/assets/cd568fd2-9516-434d-8fdc-43541d1b3bb5" />
+At Foodics, my work spans customer discovery, experimentation, architecture, evaluation, and delivery. I focus on simple systems, measurable behavior, and keeping users in control.
 
-<hr>
+## Selected work
 
-<div style="display:inline-block">
-<a href="https://medium.com/@a.ibrahim.abdellatif"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ahmed-ibrahim-abdellatif/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+### [Agent recovery and conditional batching](https://github.com/ahmedibrahimX/agent-recovery-study)
 
-<hr>
+Controlled experiments comparing ordinary tools and Code Mode across recovery, human edits, approval withdrawal, and conditional batching. Includes source, saved execution traces, offline verification, and runners for new trials.
+
+[Read the findings](https://medium.com/@a.ibrahim.abdellatif/when-should-ai-agents-write-code-or-call-tools-directly-9136e69ba2a0)
+
+### [Custom metrics in Spring Boot](https://github.com/ahmedibrahimX/custom-metrics-demo)
+
+A companion implementation for my article on application metrics: Spring Boot and AOP instrumentation, Prometheus collection, and Grafana dashboards.
+
+[Read the walkthrough](https://medium.com/@a.ibrahim.abdellatif/from-chaos-to-clarity-monitoring-your-spring-boot-app-aa85bb500d4d)
+
+## Engineering focus
+
+- Agent systems: tool use, evaluation, recovery, and application-enforced permissions.
+- Backend systems: payments, settlement, authentication, and event-driven services.
+- Product delivery: customer discovery, A/B testing, release readiness, and rollout strategy.
+
+[LinkedIn](https://www.linkedin.com/in/ahmed-ibrahim-abdellatif/) | [Writing on Medium](https://medium.com/@a.ibrahim.abdellatif)
